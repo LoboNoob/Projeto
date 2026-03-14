@@ -90,7 +90,8 @@ button{
     color: #2B2B33;
 
 }
-
+C:\Users\Aula\Downloads\aula\image copy.png
+C:\Users\Aula\Downloads\aula\image.png
 .sobre{
     justify-content: space-between;
     display: flex;
